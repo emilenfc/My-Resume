@@ -172,3 +172,28 @@ img {
     margin-bottom: 0;
 
 }
+
+.social {
+    margin-top: 30px;
+    padding-top: 10px;
+    border-top: 5px solid var(--color5);
+    text-align: center;
+}
+.social h2{
+    font-size: 18px;
+   /* text-align: left; */
+}
+a{
+    display: block;
+    padding-top: 5px;
+    text-decoration: none;
+    color: var(--color1);
+    font-size: 15px;
+}
+
+a:hover {
+   
+    text-decoration: underline;
+    color: var(--color2);
+    font-size: 15px;
+}
